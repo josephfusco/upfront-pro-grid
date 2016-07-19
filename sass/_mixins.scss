@@ -1,0 +1,17 @@
+// =============================================================================
+// Mixins
+// =============================================================================
+
+@mixin x-ray-border($color, $size: inset 0 0 0 1px){
+	&::after {
+		box-shadow: $size $color;
+		@extend %pseudos;
+	}
+}
+
+@mixin overlay($color){
+	&::before {
+		background: $color;
+		@extend %pseudos;
+	}
+}

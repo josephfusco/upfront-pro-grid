@@ -1,0 +1,17 @@
+// =============================================================================
+// Main
+// =============================================================================
+
+.upfront-overlay-grid-show ~ .upfront-region {
+
+	.upfront-module,
+	.ueditor-insert-variant-caption,
+	.ueditor-insert-variant-image {
+		@include x-ray-border($color--module);
+	}
+
+	.upfront-object-spacer {
+		position: relative;
+		@include x-ray-border(cyan);
+	}
+}
