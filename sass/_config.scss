@@ -2,13 +2,10 @@
 // Config
 // =============================================================================
 
-// Borders
-$color--module                         : #3bffff;
-
-// Grid
-$color--grid-col-even                  : rgba(0,0,0,0.1);
-$color--grid-col-odd                   : rgba(255,255,255,0.1);
+$color--grid-col-even                  : rgba(10,10,10,0.1);
+$color--grid-col-odd                   : rgba(245,245,245,0.1);
 $color--grid-row-large                 : rgba(155,155,155,.18);
-$color--grid-row-small                 : rgba(155,155,155,.05);
-$spacing--grid-row-large               : 50px;
-$spacing--grid-row-small               : 5px;
+$color--grid-row-small                 : rgba(155,155,155,.09);
+$spacing--grid-row-large               : 100px;
+$spacing--grid-row-small               : 25px;
+$font-size--grid                       : 14px;

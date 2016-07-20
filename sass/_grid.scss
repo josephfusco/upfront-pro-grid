@@ -11,26 +11,18 @@
 	background: none !important;
 }
 
-.upfront-overlay-grid::before,
-.upfront-overlay-grid::after {
-	pointer-events: none;
-	position: absolute;
-	height: 100%;
-	width: 100%;
-	content: '';
-	z-index: 2;
-	left: 0;
-	top: 0;
-}
-
 .upfront-overlay-grid::before {
-	background: linear-gradient(to top, rgba(155, 155, 155, 0.18) 1px, transparent 1px, transparent);
-	background-size: 100% 50px;
+	@extend %pseudos;
+	background: linear-gradient(to top, $color--grid-row-large 1px, transparent 1px, transparent);
+	background-size: 100% $spacing--grid-row-large;
+	z-index: 2;
 }
 
 .upfront-overlay-grid::after {
-	background: linear-gradient(to top, rgba(155, 155, 155, 0.09) 1px, transparent 1px, transparent);
-	background-size: 100% 10px;
+	@extend %pseudos;
+	background: linear-gradient(to top, $color--grid-row-small 1px, transparent 1px, transparent);
+	background-size: 100% $spacing--grid-row-small;
+	z-index: 2;
 }
 
 .upfront-overlay-grid .upfront-grid-border:nth-child(odd) {
@@ -42,5 +34,5 @@
 }
 
 .upfront-overlay-grid .c1 {
-	font-size: 14px;
+	font-size: $font-size--grid;
 }

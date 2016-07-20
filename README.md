@@ -4,4 +4,4 @@ An improved grid overlay for the Upfront editor.
 
 ## License
 
-GPLv2 or later
+[GPLv2 or later](LICENSE)
