@@ -1,4 +1,4 @@
-# Upfront Pro Grid [![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](LICENSE)
+# Upfront Pro Grid
 
 An improved grid overlay for Upfront
 
