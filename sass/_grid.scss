@@ -15,14 +15,12 @@
 	@extend %pseudos;
 	background: linear-gradient(to top, $color--grid-row-large 1px, transparent 1px, transparent);
 	background-size: 100% $spacing--grid-row-large;
-	z-index: 2;
 }
 
 .upfront-overlay-grid::after {
 	@extend %pseudos;
 	background: linear-gradient(to top, $color--grid-row-small 1px, transparent 1px, transparent);
 	background-size: 100% $spacing--grid-row-small;
-	z-index: 2;
 }
 
 .upfront-overlay-grid .upfront-grid-border:nth-child(odd) {
