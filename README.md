@@ -1,6 +1,8 @@
-# Upfront Pro Grid [![Theme](https://img.shields.io/badge/theme-upfront-blue.svg)](https://wpmudev.org/projects/category/themes/) [![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](http://www.gnu.org/licenses/gpl-2.0.html)
+# Upfront Pro Grid
 
 A grid overlay for Upfront with easy to see columns and horizontal lines
+
+<img width="1495" alt="screen shot 2016-07-19 at 8 12 12 pm" src="https://cloud.githubusercontent.com/assets/6676674/16970885/3bde26d8-4ded-11e6-9644-b4d3cc96cd9d.png">
 
 ## License
 
