@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:    Upfront Pro Grid
- * Plugin URI:     http://github.com/ufdev/upfront-pro-grid/
+ * Plugin URI:     http://github.com/josephfusco/upfront-pro-grid/
  * Description:    An improved grid overlay for Upfront.
  * Version:        1.0
  * Author:         Joseph Fusco
