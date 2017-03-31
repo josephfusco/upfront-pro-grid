@@ -1,13 +1,14 @@
 <?php
 /**
- * Plugin Name:    Upfront Pro Grid
- * Plugin URI:     http://github.com/josephfusco/upfront-pro-grid/
- * Description:    An improved grid overlay for Upfront.
- * Version:        1.0
- * Author:         Joseph Fusco
- * Author URI:     http://josephfus.co/
- * License:        GPLv2 or later
- * License URI:    LICENSE
+ * Plugin Name:       Upfront Pro Grid
+ * Plugin URI:        http://github.com/josephfusco/upfront-pro-grid/
+ * Description:       An improved grid overlay for Upfront.
+ * Version:           1.1
+ * Author:            Joseph Fusco
+ * Author URI:        http://josephfus.co/
+ * License:           GPLv2 or later
+ * License URI:       LICENSE
+ * GitHub Plugin URI: josephfusco/upfront-pro-grid
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
