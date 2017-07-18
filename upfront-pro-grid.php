@@ -5,7 +5,7 @@
  * Description:       An improved grid overlay for Upfront.
  * Version:           1.1
  * Author:            Joseph Fusco
- * Author URI:        http://josephfus.co/
+ * Author URI:        https://josephfus.co/
  * License:           GPLv2 or later
  * License URI:       LICENSE
  * GitHub Plugin URI: josephfusco/upfront-pro-grid
